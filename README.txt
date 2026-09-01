@@ -1,0 +1,1 @@
+Upload index.html to GitHub Pages, Netlify, or any static hosting service. Edit text directly in index.html. To add photos, create an images folder and replace gallery placeholders with img tags.
